@@ -1,4 +1,4 @@
-# Customer Churn Analysis for Ödeal 📊
+<h1 align="center">Customer Churn Analysis for Ödeal 📊</h1>
 
 This repository hosts the code for analyzing customer churn based on transaction data for Ödeal. The analysis provides valuable insights into customer retention and loss patterns over time.
 
