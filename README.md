@@ -2,7 +2,10 @@
 
 This repository hosts the code for analyzing customer churn based on transaction data for Ödeal. The analysis provides valuable insights into customer retention and loss patterns over time.
 
-![piechart](https://github.com/Odeal-Hackathon/ChurnAnalysis/assets/83168207/2e8eb3b7-2caf-4178-a347-30611d038dfa)
+
+
+<img width="1766" alt="image" src="https://github.com/Odeal-Hackathon/ChurnAnalysis/assets/83168207/2a421a07-067d-4dc4-9898-df65884d6287">
+
 
 
 ## What is Churn Analysis?
